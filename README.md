@@ -55,12 +55,36 @@ Home work of AI engineering Day3
   
 ※各モデルのスコアは講座のgpt4ominiを使った評価。  
 
-  
-** 大谷翔平の職業は何ですか？**
-![image](https://github.com/user-attachments/assets/a58713af-6bae-43ce-98ea-acc47594bc58)
-** 2024年の競技外収入は何位ですか？**
-![image](https://github.com/user-attachments/assets/cc86aa5e-d2c7-463e-88ce-1d4046fc3b08)
+### 大谷翔平  
 
+** 大谷翔平の職業は何ですか？**
+![image](https://github.com/user-attachments/assets/a58713af-6bae-43ce-98ea-acc47594bc58)  
+
+** 2024年の競技外収入は何位ですか？**
+![image](https://github.com/user-attachments/assets/cc86aa5e-d2c7-463e-88ce-1d4046fc3b08)  
+
+** 配偶者の名前と過去のスポーツ経験 **  
+![image](https://github.com/user-attachments/assets/05754ff0-6a75-4545-b79b-6515be47f827)  
+
+
+** 妻の名前と過去のスポーツ経験 **  
+![image](https://github.com/user-attachments/assets/eea89631-5a24-4c4c-b6de-ccb531e6dd34)   
+  
+** 参照文書②配偶者の名前と過去のスポーツ経験 **  
+![image](https://github.com/user-attachments/assets/4a99ba6a-d971-4dcc-84c3-480b90ee7ee9)  
+
+** 参照文書②妻の名前と過去のスポーツ経験 **  
+![image](https://github.com/user-attachments/assets/ec0a7c40-f591-425c-b3c6-9b3a30501f32)  
+
+### 大阪・関西万博   
+** 大阪・関西万博の会場 **   
+![image](https://github.com/user-attachments/assets/9001335d-66b9-4292-9593-03cf1425c252)   
+
+** 大阪・関西万博のメインキャラクター **  
+![image](https://github.com/user-attachments/assets/d62b88ad-4d21-4e64-805e-01ba31c15036)　　
+
+** 大阪・関西万博のマスコット **  
+![image](https://github.com/user-attachments/assets/c15b9db6-450d-4fcc-816b-d0af3d83ac79)  
 
 
 ## 発展的な改善案
