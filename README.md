@@ -1,5 +1,8 @@
 # AI_engineering_day3
-Home work of AI engineering Day3  
+Home work of AI engineering Day3  　　
+- [Open with Colab](https://colab.research.google.com/drive/1UnIcotyGpjPKkACjjZzrpxiZ6DiU7T3T?usp=sharing)　　
+
+
 ## 目的
 - 演習で利用したコードをベースに、独自の質問と参照文書を用いて実験を行い、RAGの効果を定量的・定性的に評価する。
 - 参照文書のどの位置に答えがあるかが、精度に大きく影響することを確認する。
