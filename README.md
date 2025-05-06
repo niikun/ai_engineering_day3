@@ -155,6 +155,6 @@ Home work of AI engineering Day3  　　
   - そもそも、参照文書がAIにとって、検索しにくいと思われる。参照文書のより良い形式を探ることで、RAGの精度を向上が期待できる。
 ### 以下の手法を実験。
   - RAGをツールに持つAgent　　　
-    [![Open In Colab](https://colab.research.google.com/drive/1SteQdfrIkl75ZVs3WioM_ZZ28CaTxFjU?usp=sharing)　　
+    https://colab.research.google.com/drive/1SteQdfrIkl75ZVs3WioM_ZZ28CaTxFjU?usp=sharing
   - DualRAGを参考にした検索・要約を繰り返すモデル　　　
-    [![Open In Colab](https://colab.research.google.com/drive/1gHsPOMPRXlh1GRDwXdLQgHDlROsQrXA2?usp=sharing)　　
+    https://colab.research.google.com/drive/1gHsPOMPRXlh1GRDwXdLQgHDlROsQrXA2?usp=sharing　
