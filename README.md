@@ -149,11 +149,12 @@ Home work of AI engineering Day3  　　
   
 
 ## 発展的な改善案
-### 日本語性能の高いモデルでの実験
-  - 結婚と妻を関連付けられなかったりしたので、日本語性能の高いモデルを活用することで性能が上がることが期待できる
-### ガードレールの工夫
+### 1回の検索・生成だけではうまくいかない
+  - 結婚と妻を関連付けられなかったりしたが、複数回LLMを通すことで改善されるのではないか。
   - RAGで回答が見つけられなかった場合、ハルシネーションがいくつか見られた。
-### モデルの工夫
-  - 今回は文ごとにチャンクを分けたが、セマンティックチャンク、グラフベースのRAGなどで精度が上がることが期待できる。
-### 参照文書の工夫
   - そもそも、参照文書がAIにとって、検索しにくいと思われる。参照文書のより良い形式を探ることで、RAGの精度を向上が期待できる。
+### 以下の手法を実験。
+  - RAGをツールに持つAgent
+    [![Open In Colab](https://colab.research.google.com/drive/1SteQdfrIkl75ZVs3WioM_ZZ28CaTxFjU?usp=sharing)
+  - DualRAGを参考にした検索・要約を繰り返すモデル
+    [![Open In Colab](https://colab.research.google.com/drive/1gHsPOMPRXlh1GRDwXdLQgHDlROsQrXA2?usp=sharing)
